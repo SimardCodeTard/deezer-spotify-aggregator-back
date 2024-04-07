@@ -1,0 +1,14 @@
+{
+  "name": "deezer-spotify-playlist-aggregator-back",
+  "module": "main.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
